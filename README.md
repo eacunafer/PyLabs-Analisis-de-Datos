@@ -4,7 +4,7 @@ en clase ESMA 3016 que el ensena en el Departamento de Ciencias Matematicas de l
 
 # Contenido
 
-Organizacion y presentadion de Datos Cuantitativos Discretos
+Organizacion y Presentacion de Datos Cuantitativos Discretos
 
 Organizacion y Presentacion de  Datos Cuantitativos Continuos
 
